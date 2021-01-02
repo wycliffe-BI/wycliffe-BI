@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+
+
 
 <!--
 **wycliffe-BI/wycliffe-BI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
